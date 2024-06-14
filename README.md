@@ -1,5 +1,16 @@
+  <script src="donut.js"></script>
+  <script>
+      window.onload = function() {
+          anim1();
+      };
+  </script>
 <h1 align="center">Hey, my name is Sambhav Khanna</h1>
 <h3 align="center">I'm a Computer Science junior at the University of Waterloo.</h3>
+
+  <div style="height: 600px; width: 650px; justify-content: center;">
+      <pre id="d" style="background-color:#000; color:#ccc; font-size: 10pt;">
+      </pre>
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
