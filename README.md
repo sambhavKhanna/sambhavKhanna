@@ -1,9 +1,9 @@
-  <script src="donut.js"></script>
-  <script>
-      window.onload = function() {
-          anim1();
-      };
-  </script>
+<script src="donut.js"></script>
+<script>
+    window.onload = function() {
+        anim1();
+    };
+</script>
 <h1 align="center">Hey, my name is Sambhav Khanna</h1>
 <h3 align="center">I'm a Computer Science junior at the University of Waterloo.</h3>
 
