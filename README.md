@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Hello! You're My** ![Visitor Count](https://profile-counter.glitch.me/NeroHin/count.svg)
+**Hello! You're My** ![Visitor Count](https://profile-counter.glitch.me/sambhavKhanna/count.svg)
 visitor
 <h1 align="center">Hey, my name is Sambhav Khanna</h1>
 <h3 align="center">I'm a Computer Science junior at the University of Waterloo.</h3>
