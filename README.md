@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sambhav Khanna</h1>
-<h3 align="center">CS @ University of Waterloo</h3>
+Hi 👋, I'm Sambhav Khanna
+CS @ University of Waterloo</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **systems, backend, and applied AI projects**
-- 🌱 Learning more about **distributed systems, low-level performance, and ML infra**
-- 💬 Ask me about **Go, Python, TypeScript, Postgres, and AI tooling**
+- 🔭 I’m currently working on systems, backend, and applied AI projects
+- 🌱 Learning more about distributed systems, low-level performance, and ML infra
+- 💬 Ask me about Go, Python, TypeScript, Postgres, and AI tooling
 
 ### 📫 How to Reach Me
 
